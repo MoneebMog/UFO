@@ -1,0 +1,40 @@
+#ufo {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url('u.PNG');
+    background-size: contain;
+  }
+
+
+  #ground {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url('path/to/ground.png');
+  }
+  
+  .cow {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-image: url('path/to/cow.png');
+  }
+  
+  #cow1 {
+    top: 10px;
+    left: 10px;
+  }
+  
+  #cow2 {
+    top: 20px;
+    left: 20px;
+  }
+  
+  #cow3 {
+    top: 30px;
+    left: 30px;
+  }
+  
+
+
